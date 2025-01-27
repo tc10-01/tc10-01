@@ -1,6 +1,6 @@
 # Hey there! I'm TungChen (TC) Liu 👋
 
-I'm a final-year Computer Science student at the **University of Toronto**, with strong interests in ** software development **, **backend development**, and **machine learning**. 
+I'm a final-year Computer Science student at the **University of Toronto**, with strong interests in **software development**, **backend development**, and **machine learning**. 
 
 ## 🔧 Skills & Technologies
 - **Languages**: Python, Java, C/C++, JavaScript, R  
