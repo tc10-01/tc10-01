@@ -1,25 +1,12 @@
 # Hey there! I'm TungChen (TC) Liu 👋
 
-I'm a fourth-year Computer Science, Statistics, and Mathematics student at the University of Toronto, passionate about building impactful software solutions. My work often involves:
+I'm a final-year Computer Science student at the **University of Toronto**, with strong interests in ** software development **, **backend development**, and **machine learning**. 
 
-- **Full-Stack Web Development**  
-  - **Backend:** Python (Django, FastAPI), Node.js (Express.js)  
-  - **Frontend:** React.js, HTML/CSS
-- **Machine Learning & AI**  
-  - Working with LLMs (GPT-3, LLaMA), Computer Vision (facial recognition), Graph-based Recommendations
-- **Data & DevOps**  
-  - Databases: MySQL, PostgreSQL, MongoDB, Neo4j, ChromaDB  
-  - Cloud/Infrastructure: AWS (S3, Lambda, EC2), Docker, Git (GitHub, GitLab), Linux/Unix
-
-## Recent Projects
-1. **AI Writing Assistant**  
-   - A GPT-3-powered text generation and editing tool with advanced grammar checks and keyword extraction.
-
-2. **Real-Time Camera Control System**  
-   - An ML-based solution converting natural language (voice/text) into VISCA-over-IP commands for multi-camera setups.
-
-3. **Social Needs Marketplace (SNM-I)**  
-   - A knowledge graph-driven platform for matching social services to vulnerable populations, leveraging Python, Selenium, LLaMA, and Neo4j.
+## 🔧 Skills & Technologies
+- **Languages**: Python, Java, C/C++, JavaScript, R  
+- **Web Development**: Django, FastAPI, Node.js, Express.js, HTML/CSS  
+- **Databases**: MySQL, PostgreSQL, MongoDB, Neo4j, ChromaDB  
+- **Cloud & DevOps**: AWS (S3, Lambda, EC2), Docker, Git (GitHub, GitLab), Linux/Unix
 
 ## Let’s Connect!
 - **LinkedIn:** [linkedin.com/in/tcliu-496438262/](https://linkedin.com/in/tcliu-496438262/)  
