@@ -6,10 +6,10 @@ I'm a final-year Computer Science student at the **University of Toronto**, with
 https://github.com/tc10-01/TC-s-Resume/blob/0aa41a4b617c0363fc3d2579d03091d342beb4ba/TungChen%20Liu's%20Resume.pdf
 
 ## 🔧 Skills & Technologies
-- **Languages**: Python, Java, C/C++, JavaScript, R  
-- **Web Development**: Django, FastAPI, Node.js, Express.js, HTML/CSS  
-- **Databases**: MySQL, PostgreSQL, MongoDB, Neo4j, ChromaDB  
-- **Cloud & DevOps**: AWS (S3, Lambda, EC2), Docker, Git (GitHub, GitLab), Linux/Unix
+- **Languages**: Python, Java, C/C++, JavaScript
+- **Web Development**: React.js, Node.js, Django, HTML/CSS, FastAPI, REST APIs  
+- **Databases**: PostgreSQL, MySQL, MongoDB, GraphDB (SPARQL)  
+- **Cloud & DevOps**: AWS, Docker, Git (GitHub, GitLab), Linux/Uni
 
 ## Let’s Connect!
 - **LinkedIn:** [linkedin.com/in/tcliu-496438262/](https://linkedin.com/in/tcliu-496438262/)  
