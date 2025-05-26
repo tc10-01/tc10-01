@@ -2,6 +2,9 @@
 
 I'm a final-year Computer Science student at the **University of Toronto**, with strong interests in **software development**, **backend development**, and **machine learning**. 
 
+## Resume
+https://github.com/tc10-01/TC-s-Resume/blob/0aa41a4b617c0363fc3d2579d03091d342beb4ba/TungChen%20Liu's%20Resume.pdf
+
 ## 🔧 Skills & Technologies
 - **Languages**: Python, Java, C/C++, JavaScript, R  
 - **Web Development**: Django, FastAPI, Node.js, Express.js, HTML/CSS  
